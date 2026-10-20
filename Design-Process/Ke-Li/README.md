@@ -1,4 +1,4 @@
-# Ke Li — Character Artwork and Room Background Contributions
+# Chloe Li — Character Artwork and Room Background Contributions
 
 I created character artwork and room background artwork for Nookie. This folder documents those visual contributions, links to assets already included in the shared project, and archives additional original artwork.
 
