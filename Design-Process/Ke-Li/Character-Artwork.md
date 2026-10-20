@@ -2,6 +2,8 @@
 
 This inventory records the 42 character PNGs already present in the shared repository. Asset names are preserved so reviewers can find the same images in the project.
 
+The [original artwork archive](Source-Artwork.md) also includes 10 bag images, six headphone images, and one additional character illustration. These additional files are archived separately and are not integrated into the current app.
+
 ## Default character previews
 
 | Default boy illustration | Default girl illustration |
@@ -25,6 +27,6 @@ This inventory records the 42 character PNGs already present in the shared repos
 
 The existing [CharacterCustomization.swift](../../CharacterCustomization.swift) layers the base model, shoes, bottoms, tops, and hair in `CharacterArtwork`. Its editor exposes 10 hair choices, nine tops, 10 bottoms, and 10 shoe choices. The two default illustrations are listed separately from those editable layers.
 
-These implementation details describe the current shared project and are not a claim of code authorship. No alternate local implementation or duplicate artwork is added in this folder.
+These implementation details describe the current shared project and are not a claim of code authorship. The existing character PNGs are linked rather than copied again.
 
 [Back to contribution overview](README.md)

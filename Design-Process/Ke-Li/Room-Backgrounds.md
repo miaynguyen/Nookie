@@ -2,6 +2,8 @@
 
 This inventory records the four room background PNGs already present in the shared repository. Each image is named `room.png` inside a distinct image set.
 
+The [original artwork archive](Source-Artwork.md) also preserves two additional room illustrations from `Roomchoice/`. These are separate source artwork and are not integrated into the current app.
+
 | Room label in the app | Existing asset | Preview |
 | --- | --- | --- |
 | Sky Blue | [room_sky](../../room_sky.imageset/room.png) | ![Sky Blue study room](../../room_sky.imageset/room.png) |

@@ -1,0 +1,598 @@
+{
+  "source_folder": "Charactor Assets",
+  "comparison_base_commit": "266cb5dac1b6beefa3f870ff72a496329706d8c4",
+  "comparison_method": "SHA-256 of PNG bytes; equivalent-rendered-pixels compares dimensions and premultiplied RGBA bytes.",
+  "summary": {
+    "source_pngs": 65,
+    "identical_bytes": 42,
+    "equivalent_rendered_pixels": 4,
+    "additional_archived_pngs": 19
+  },
+  "files": [
+    {
+      "source_file": "Bags/Unknown-3 43.png",
+      "source_sha256": "52c546da409a92f6a22e8fa6ac3ddc57f94e0c98fb9f5dcd28a470f1a736d867",
+      "width": 68,
+      "height": 91,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 43.png",
+      "repository_sha256": "52c546da409a92f6a22e8fa6ac3ddc57f94e0c98fb9f5dcd28a470f1a736d867"
+    },
+    {
+      "source_file": "Bags/Unknown-3 44.png",
+      "source_sha256": "c1870398d0b72166b0180a0439703e5a5fc3e36c38ecd72a82f96d81745fd751",
+      "width": 61,
+      "height": 90,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 44.png",
+      "repository_sha256": "c1870398d0b72166b0180a0439703e5a5fc3e36c38ecd72a82f96d81745fd751"
+    },
+    {
+      "source_file": "Bags/Unknown-3 45.png",
+      "source_sha256": "b6eb2cec5bc40d9a2dcb9664d0f669a632dab569cdc25c2e88396f99d69bb539",
+      "width": 62,
+      "height": 90,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 45.png",
+      "repository_sha256": "b6eb2cec5bc40d9a2dcb9664d0f669a632dab569cdc25c2e88396f99d69bb539"
+    },
+    {
+      "source_file": "Bags/Unknown-3 46.png",
+      "source_sha256": "f21aa30669c84809bdf7c539175a6ace206460ec8b3a0c4cdbf95efd17bc51e0",
+      "width": 65,
+      "height": 90,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 46.png",
+      "repository_sha256": "f21aa30669c84809bdf7c539175a6ace206460ec8b3a0c4cdbf95efd17bc51e0"
+    },
+    {
+      "source_file": "Bags/Unknown-3 47.png",
+      "source_sha256": "cba6eeac729c39e025e1e4f7cb949bb86718ee1f98084b723e8c365a4ef73c1e",
+      "width": 65,
+      "height": 90,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 47.png",
+      "repository_sha256": "cba6eeac729c39e025e1e4f7cb949bb86718ee1f98084b723e8c365a4ef73c1e"
+    },
+    {
+      "source_file": "Bags/Unknown-3 48.png",
+      "source_sha256": "fb1e3ade986a9fbd045daf34483b6b38ce6874ed3fb6121dacb0a9714495129f",
+      "width": 68,
+      "height": 80,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 48.png",
+      "repository_sha256": "fb1e3ade986a9fbd045daf34483b6b38ce6874ed3fb6121dacb0a9714495129f"
+    },
+    {
+      "source_file": "Bags/Unknown-3 49.png",
+      "source_sha256": "93cb6a572d309093f0c3ab465996b1d518d09b9b71e660c14645575625b4cd27",
+      "width": 69,
+      "height": 80,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 49.png",
+      "repository_sha256": "93cb6a572d309093f0c3ab465996b1d518d09b9b71e660c14645575625b4cd27"
+    },
+    {
+      "source_file": "Bags/Unknown-3 50.png",
+      "source_sha256": "8a34e01d3fb9e29e8bf810238fb39beae50b79517e4bf8aa12680a5c5d7b006f",
+      "width": 68,
+      "height": 80,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 50.png",
+      "repository_sha256": "8a34e01d3fb9e29e8bf810238fb39beae50b79517e4bf8aa12680a5c5d7b006f"
+    },
+    {
+      "source_file": "Bags/Unknown-3 51.png",
+      "source_sha256": "22f449a02f2748d13cd2f1612a929cc879b7cf5f7fe77f1e21259a11231dfc41",
+      "width": 68,
+      "height": 79,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 51.png",
+      "repository_sha256": "22f449a02f2748d13cd2f1612a929cc879b7cf5f7fe77f1e21259a11231dfc41"
+    },
+    {
+      "source_file": "Bags/Unknown-3 52.png",
+      "source_sha256": "a5213a86d7b5114f0548e95ce1b215062fe029c374f89643fedf120aa874645e",
+      "width": 68,
+      "height": 80,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Bags/Unknown-3 52.png",
+      "repository_sha256": "a5213a86d7b5114f0548e95ce1b215062fe029c374f89643fedf120aa874645e"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_01.png",
+      "source_sha256": "90ea55ea58b660b36cb7fef8b13860c1d0238e2834358bf02617de95ed48369a",
+      "width": 570,
+      "height": 665,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_01.imageset/character_bottom_01.png",
+      "repository_sha256": "90ea55ea58b660b36cb7fef8b13860c1d0238e2834358bf02617de95ed48369a"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_02.png",
+      "source_sha256": "e0f3a6fd203d4e72ad04bd936fab087b80263778411694357d2d3187380824a2",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_02.imageset/character_bottom_02.png",
+      "repository_sha256": "e0f3a6fd203d4e72ad04bd936fab087b80263778411694357d2d3187380824a2"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_03.png",
+      "source_sha256": "1d6093ec3f9b56289819cbb9189810e1409658fd5956b516c12aa735216716d7",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_03.imageset/character_bottom_03.png",
+      "repository_sha256": "1d6093ec3f9b56289819cbb9189810e1409658fd5956b516c12aa735216716d7"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_04.png",
+      "source_sha256": "da321df9d7f7ad16c43e10d5683955be9bdc6d2b771c6a567f626059e7ff6912",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_04.imageset/character_bottom_04.png",
+      "repository_sha256": "da321df9d7f7ad16c43e10d5683955be9bdc6d2b771c6a567f626059e7ff6912"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_05.png",
+      "source_sha256": "eea0f23c7c57fec8a2a2c37fe45516763187145d05fd9ee480e51d979ce79611",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_05.imageset/character_bottom_05.png",
+      "repository_sha256": "eea0f23c7c57fec8a2a2c37fe45516763187145d05fd9ee480e51d979ce79611"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_06.png",
+      "source_sha256": "3898d663734a62e5d8220693ee95e01a2a2586041316648cf389953c2fdc5ccd",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_06.imageset/character_bottom_06.png",
+      "repository_sha256": "3898d663734a62e5d8220693ee95e01a2a2586041316648cf389953c2fdc5ccd"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_07.png",
+      "source_sha256": "9ea42ad539b07feb4bda6c89f3c8116338efc1cd51d9c3cd92b707a9669a717d",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_07.imageset/character_bottom_07.png",
+      "repository_sha256": "9ea42ad539b07feb4bda6c89f3c8116338efc1cd51d9c3cd92b707a9669a717d"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_08.png",
+      "source_sha256": "0bd8d0f6d6690701b813d0c0bbbcf0ba82cacabc42abd6afad75d33884f6d371",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_08.imageset/character_bottom_08.png",
+      "repository_sha256": "0bd8d0f6d6690701b813d0c0bbbcf0ba82cacabc42abd6afad75d33884f6d371"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_09.png",
+      "source_sha256": "45a9d87b1e8f05f6291e908e5fedd0f174fca25ecac31725275fc336f9c28d58",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_09.imageset/character_bottom_09.png",
+      "repository_sha256": "45a9d87b1e8f05f6291e908e5fedd0f174fca25ecac31725275fc336f9c28d58"
+    },
+    {
+      "source_file": "Bottoms/character_bottom_10.png",
+      "source_sha256": "274f48c9c963b717d51b2ecae62e339bedd75cdfa1dcc554cb3f3e04aa1b24b6",
+      "width": 570,
+      "height": 650,
+      "status": "identical-bytes",
+      "repository_file": "character_bottom_10.imageset/character_bottom_10.png",
+      "repository_sha256": "274f48c9c963b717d51b2ecae62e339bedd75cdfa1dcc554cb3f3e04aa1b24b6"
+    },
+    {
+      "source_file": "Hair/character_hair_boy_01.png",
+      "source_sha256": "b8c13879c28b91fbb012ddaf15282dcd52426ff5688ecf6f96e226da213494dc",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_boy_01.imageset/character_hair_boy_01.png",
+      "repository_sha256": "b8c13879c28b91fbb012ddaf15282dcd52426ff5688ecf6f96e226da213494dc"
+    },
+    {
+      "source_file": "Hair/character_hair_boy_02.png",
+      "source_sha256": "560dfab4e3226c143f7f69bf45e22b1a4a5116d3fc3537f9b8dbb110c6cf8536",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_boy_02.imageset/character_hair_boy_02.png",
+      "repository_sha256": "560dfab4e3226c143f7f69bf45e22b1a4a5116d3fc3537f9b8dbb110c6cf8536"
+    },
+    {
+      "source_file": "Hair/character_hair_boy_03.png",
+      "source_sha256": "4ca525c1f26e1d3003f8f7ad88b9fb7889dac37183d303cbf6cb22e44e5a0dfc",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_boy_03.imageset/character_hair_boy_03.png",
+      "repository_sha256": "4ca525c1f26e1d3003f8f7ad88b9fb7889dac37183d303cbf6cb22e44e5a0dfc"
+    },
+    {
+      "source_file": "Hair/character_hair_boy_04.png",
+      "source_sha256": "8c2bc0cae2b858487308b52fb1833b828227986775ae8d05688fcbb14b37b4da",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_boy_04.imageset/character_hair_boy_04.png",
+      "repository_sha256": "8c2bc0cae2b858487308b52fb1833b828227986775ae8d05688fcbb14b37b4da"
+    },
+    {
+      "source_file": "Hair/character_hair_boy_05.png",
+      "source_sha256": "15cf50f952fe692f0f64f6d86fc23f939e764671fcad92c505a30f5a589ff501",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_boy_05.imageset/character_hair_boy_05.png",
+      "repository_sha256": "15cf50f952fe692f0f64f6d86fc23f939e764671fcad92c505a30f5a589ff501"
+    },
+    {
+      "source_file": "Hair/character_hair_girl_01.png",
+      "source_sha256": "7f18f28d16e4ac2b0cf01fddd9458382ce2e28a36284e8c56a39586414980ff4",
+      "width": 600,
+      "height": 635,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_girl_01.imageset/character_hair_girl_01.png",
+      "repository_sha256": "7f18f28d16e4ac2b0cf01fddd9458382ce2e28a36284e8c56a39586414980ff4"
+    },
+    {
+      "source_file": "Hair/character_hair_girl_02.png",
+      "source_sha256": "03b66679beb13975113e378b83d8ae9ed129dd1d5e376c66b6f17ba15a4fb976",
+      "width": 600,
+      "height": 635,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_girl_02.imageset/character_hair_girl_02.png",
+      "repository_sha256": "03b66679beb13975113e378b83d8ae9ed129dd1d5e376c66b6f17ba15a4fb976"
+    },
+    {
+      "source_file": "Hair/character_hair_girl_03.png",
+      "source_sha256": "459e20be363501fa723c121934abf4a5641c5cee4ead7423acbb46c65d8842b0",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_girl_03.imageset/character_hair_girl_03.png",
+      "repository_sha256": "459e20be363501fa723c121934abf4a5641c5cee4ead7423acbb46c65d8842b0"
+    },
+    {
+      "source_file": "Hair/character_hair_girl_04.png",
+      "source_sha256": "daafb09eb7fddb4cf226a3978a84083877896bb95623591581ba51f77f5033c8",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_girl_04.imageset/character_hair_girl_04.png",
+      "repository_sha256": "daafb09eb7fddb4cf226a3978a84083877896bb95623591581ba51f77f5033c8"
+    },
+    {
+      "source_file": "Hair/character_hair_girl_05.png",
+      "source_sha256": "61223a38cd575b12f331a2303d06f95fa34e6d7ef188f0ee24fa84707dc7df3a",
+      "width": 600,
+      "height": 620,
+      "status": "identical-bytes",
+      "repository_file": "character_hair_girl_05.imageset/character_hair_girl_05.png",
+      "repository_sha256": "61223a38cd575b12f331a2303d06f95fa34e6d7ef188f0ee24fa84707dc7df3a"
+    },
+    {
+      "source_file": "Headphones/Unknown-3 37.png",
+      "source_sha256": "14624b82dfd20013ab240b61661f2961f8b40689edb8eeb6f844b406828f59c4",
+      "width": 61,
+      "height": 86,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Headphones/Unknown-3 37.png",
+      "repository_sha256": "14624b82dfd20013ab240b61661f2961f8b40689edb8eeb6f844b406828f59c4"
+    },
+    {
+      "source_file": "Headphones/Unknown-3 38.png",
+      "source_sha256": "ea95d76e73645198ca99437c24da018f8a4bb1f881a42d6f10b5ee6a11360e38",
+      "width": 61,
+      "height": 86,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Headphones/Unknown-3 38.png",
+      "repository_sha256": "ea95d76e73645198ca99437c24da018f8a4bb1f881a42d6f10b5ee6a11360e38"
+    },
+    {
+      "source_file": "Headphones/Unknown-3 39.png",
+      "source_sha256": "b2baf555771e95fecad6eac426fcb123e5c4850989ed4b4e4eff1603510712b1",
+      "width": 61,
+      "height": 86,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Headphones/Unknown-3 39.png",
+      "repository_sha256": "b2baf555771e95fecad6eac426fcb123e5c4850989ed4b4e4eff1603510712b1"
+    },
+    {
+      "source_file": "Headphones/Unknown-3 40.png",
+      "source_sha256": "501146290f9bab3ea01e8e3c22e7554ffdcf8d272b53da6b0ac042362850b046",
+      "width": 60,
+      "height": 86,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Headphones/Unknown-3 40.png",
+      "repository_sha256": "501146290f9bab3ea01e8e3c22e7554ffdcf8d272b53da6b0ac042362850b046"
+    },
+    {
+      "source_file": "Headphones/Unknown-3 41.png",
+      "source_sha256": "94ed326bebc2040b03aa503deb0a370e523878dc690e11eb6be5c010272024ca",
+      "width": 59,
+      "height": 86,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Headphones/Unknown-3 41.png",
+      "repository_sha256": "94ed326bebc2040b03aa503deb0a370e523878dc690e11eb6be5c010272024ca"
+    },
+    {
+      "source_file": "Headphones/Unknown-3 42.png",
+      "source_sha256": "c4f55881bea0a34eef57294274df63d2ce9e9defb58ca813da3a61096b75a5fb",
+      "width": 59,
+      "height": 86,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Headphones/Unknown-3 42.png",
+      "repository_sha256": "c4f55881bea0a34eef57294274df63d2ce9e9defb58ca813da3a61096b75a5fb"
+    },
+    {
+      "source_file": "Roomchoice/image 17.png",
+      "source_sha256": "0381005d98fcefc741e3f6d209e5eb4f69032bafd2d8b2bf02be1ea9343189ff",
+      "width": 520,
+      "height": 390,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Roomchoice/image 17.png",
+      "repository_sha256": "0381005d98fcefc741e3f6d209e5eb4f69032bafd2d8b2bf02be1ea9343189ff"
+    },
+    {
+      "source_file": "Roomchoice/image 18.png",
+      "source_sha256": "2449a79521f2481ec5ab68b7ea0a4af7d0acc19d11db5bc31d93905407ce4aed",
+      "width": 520,
+      "height": 390,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/Roomchoice/image 18.png",
+      "repository_sha256": "2449a79521f2481ec5ab68b7ea0a4af7d0acc19d11db5bc31d93905407ce4aed"
+    },
+    {
+      "source_file": "Shoes/character_shoes_01.png",
+      "source_sha256": "da4596f9df9e1b6a73730d99bb272e9f18643ee2fcdc5fb7dd64a4e1e39e6a1e",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_01.imageset/character_shoes_01.png",
+      "repository_sha256": "da4596f9df9e1b6a73730d99bb272e9f18643ee2fcdc5fb7dd64a4e1e39e6a1e"
+    },
+    {
+      "source_file": "Shoes/character_shoes_02.png",
+      "source_sha256": "7b1f2c6848cc1b5292c381877039c17c45964cacf66035afe402fa55913438c4",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_02.imageset/character_shoes_02.png",
+      "repository_sha256": "7b1f2c6848cc1b5292c381877039c17c45964cacf66035afe402fa55913438c4"
+    },
+    {
+      "source_file": "Shoes/character_shoes_03.png",
+      "source_sha256": "34dab8c54b274c472b16b755fafdf4cff94ea8d686655f2d9a404ab8b226168b",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_03.imageset/character_shoes_03.png",
+      "repository_sha256": "34dab8c54b274c472b16b755fafdf4cff94ea8d686655f2d9a404ab8b226168b"
+    },
+    {
+      "source_file": "Shoes/character_shoes_04.png",
+      "source_sha256": "f53c76a25f73976e67fdad8a85268154120bb8fd259a9839236e9068d67d30fa",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_04.imageset/character_shoes_04.png",
+      "repository_sha256": "f53c76a25f73976e67fdad8a85268154120bb8fd259a9839236e9068d67d30fa"
+    },
+    {
+      "source_file": "Shoes/character_shoes_05.png",
+      "source_sha256": "0b2614b3ea9e010b97e4d10d505e6ae00c27afc99d9ce4baf6334e49a727c58c",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_05.imageset/character_shoes_05.png",
+      "repository_sha256": "0b2614b3ea9e010b97e4d10d505e6ae00c27afc99d9ce4baf6334e49a727c58c"
+    },
+    {
+      "source_file": "Shoes/character_shoes_06.png",
+      "source_sha256": "c130a3ad8e4c56ff3ae1194d76ac3cb041b9216a09082faf4488eaa8f56e836d",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_06.imageset/character_shoes_06.png",
+      "repository_sha256": "c130a3ad8e4c56ff3ae1194d76ac3cb041b9216a09082faf4488eaa8f56e836d"
+    },
+    {
+      "source_file": "Shoes/character_shoes_07.png",
+      "source_sha256": "fea5efb9453ca2c140faee2893da5621fe2a1129a4b8e44edaa6e2d3c68fe85e",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_07.imageset/character_shoes_07.png",
+      "repository_sha256": "fea5efb9453ca2c140faee2893da5621fe2a1129a4b8e44edaa6e2d3c68fe85e"
+    },
+    {
+      "source_file": "Shoes/character_shoes_08.png",
+      "source_sha256": "92e4fc5417f0d93f618d025bf5c53b62f0ff5503217b259e90bcd58fbbb503e7",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_08.imageset/character_shoes_08.png",
+      "repository_sha256": "92e4fc5417f0d93f618d025bf5c53b62f0ff5503217b259e90bcd58fbbb503e7"
+    },
+    {
+      "source_file": "Shoes/character_shoes_09.png",
+      "source_sha256": "193f84ae2122f9eb2d9cdc9f8af611e1f0a7c75c09ba02a174760ec87d97afa6",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_09.imageset/character_shoes_09.png",
+      "repository_sha256": "193f84ae2122f9eb2d9cdc9f8af611e1f0a7c75c09ba02a174760ec87d97afa6"
+    },
+    {
+      "source_file": "Shoes/character_shoes_10.png",
+      "source_sha256": "196e805fbf7878c37b14bdd4ba00a53dc26f2d36c2e08fd3e2f284f92dcddaad",
+      "width": 165,
+      "height": 82,
+      "status": "identical-bytes",
+      "repository_file": "character_shoes_10.imageset/character_shoes_10.png",
+      "repository_sha256": "196e805fbf7878c37b14bdd4ba00a53dc26f2d36c2e08fd3e2f284f92dcddaad"
+    },
+    {
+      "source_file": "Templates/character_default_boy.png",
+      "source_sha256": "3d713caa4379bed2cb6f4eb2756d272f6d965f6013511685ca0e1afa053ddf86",
+      "width": 590,
+      "height": 1245,
+      "status": "identical-bytes",
+      "repository_file": "character_default_boy.imageset/character_default_boy.png",
+      "repository_sha256": "3d713caa4379bed2cb6f4eb2756d272f6d965f6013511685ca0e1afa053ddf86"
+    },
+    {
+      "source_file": "Templates/character_default_girl.png",
+      "source_sha256": "e8e71bd53a422769232ded077b07cad433b09b4c9e4001b308d4b512a81c8294",
+      "width": 605,
+      "height": 1235,
+      "status": "identical-bytes",
+      "repository_file": "character_default_girl.imageset/character_default_girl.png",
+      "repository_sha256": "e8e71bd53a422769232ded077b07cad433b09b4c9e4001b308d4b512a81c8294"
+    },
+    {
+      "source_file": "Tops/character_top_01.png",
+      "source_sha256": "a5bfb8173fd5c064a6a2bbd56b1f5449fe97a92d0fafbae07396da548b7a7260",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_01.imageset/character_top_01.png",
+      "repository_sha256": "a5bfb8173fd5c064a6a2bbd56b1f5449fe97a92d0fafbae07396da548b7a7260"
+    },
+    {
+      "source_file": "Tops/character_top_02.png",
+      "source_sha256": "d9af4be371538a3149228256b66abfe2c039a88ec2eb2c8b68e3e9797112fb08",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_02.imageset/character_top_02.png",
+      "repository_sha256": "d9af4be371538a3149228256b66abfe2c039a88ec2eb2c8b68e3e9797112fb08"
+    },
+    {
+      "source_file": "Tops/character_top_03.png",
+      "source_sha256": "c817d52e5a73d67d538b41c9ebccf6bb95c189dcbac651a49ee3be9238248ee3",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_03.imageset/character_top_03.png",
+      "repository_sha256": "c817d52e5a73d67d538b41c9ebccf6bb95c189dcbac651a49ee3be9238248ee3"
+    },
+    {
+      "source_file": "Tops/character_top_04.png",
+      "source_sha256": "08479fdd9b3ea0aa8391d19f08c38e66113cfefbd634b95a304b280f988c00d5",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_04.imageset/character_top_04.png",
+      "repository_sha256": "08479fdd9b3ea0aa8391d19f08c38e66113cfefbd634b95a304b280f988c00d5"
+    },
+    {
+      "source_file": "Tops/character_top_05.png",
+      "source_sha256": "b0b2814b7f102b3065b45f6efa700bcfcf345dc31d7e8ea4bc6a88cd4e417036",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_05.imageset/character_top_05.png",
+      "repository_sha256": "b0b2814b7f102b3065b45f6efa700bcfcf345dc31d7e8ea4bc6a88cd4e417036"
+    },
+    {
+      "source_file": "Tops/character_top_06.png",
+      "source_sha256": "b90b0793ed8d593675646301c9d216321b1cd9e4e66828d80dd7b1c028afafff",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_06.imageset/character_top_06.png",
+      "repository_sha256": "b90b0793ed8d593675646301c9d216321b1cd9e4e66828d80dd7b1c028afafff"
+    },
+    {
+      "source_file": "Tops/character_top_07.png",
+      "source_sha256": "ae286a5c5b7f0769878d415d141886558a51f8663b8cc15d4d34e49800fc4153",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_07.imageset/character_top_07.png",
+      "repository_sha256": "ae286a5c5b7f0769878d415d141886558a51f8663b8cc15d4d34e49800fc4153"
+    },
+    {
+      "source_file": "Tops/character_top_08.png",
+      "source_sha256": "d4842472fd13afc47cade5509a8d037512bc31f25fd814253760212ab5ab365b",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_08.imageset/character_top_08.png",
+      "repository_sha256": "d4842472fd13afc47cade5509a8d037512bc31f25fd814253760212ab5ab365b"
+    },
+    {
+      "source_file": "Tops/character_top_09.png",
+      "source_sha256": "ab64b2a64b7343e7c199148c74a55964d10331d05343032bbb8f30f0cda05eb2",
+      "width": 475,
+      "height": 395,
+      "status": "identical-bytes",
+      "repository_file": "character_top_09.imageset/character_top_09.png",
+      "repository_sha256": "ab64b2a64b7343e7c199148c74a55964d10331d05343032bbb8f30f0cda05eb2"
+    },
+    {
+      "source_file": "character_model.png",
+      "source_sha256": "53bd8e6c1e6e351c8e46bacfa900d21fd4b13d4559e97a3ffca94934541c38bd",
+      "width": 213,
+      "height": 423,
+      "status": "identical-bytes",
+      "repository_file": "character_model.imageset/character_model.png",
+      "repository_sha256": "53bd8e6c1e6e351c8e46bacfa900d21fd4b13d4559e97a3ffca94934541c38bd"
+    },
+    {
+      "source_file": "charactor_room choices.png",
+      "source_sha256": "d0af37bdc2a0b36aae07464881d474b66baa9e8187e54d60849f9f58fb206fd3",
+      "width": 850,
+      "height": 1790,
+      "status": "additional-artwork",
+      "repository_file": "Design-Process/Ke-Li/Assets/charactor_room choices.png",
+      "repository_sha256": "d0af37bdc2a0b36aae07464881d474b66baa9e8187e54d60849f9f58fb206fd3"
+    },
+    {
+      "source_file": "image 47.png",
+      "source_sha256": "4b60b381b8059b5e4fcd88ac13ba9a93f1c38c34ad4a14bc618a8b57a7fa1d6b",
+      "width": 900,
+      "height": 950,
+      "status": "equivalent-rendered-pixels",
+      "repository_file": "room_blush.imageset/room.png",
+      "repository_sha256": "1e6dfe303af8142dd1172855a24e08f8eed3b69dc4980acd2243a9c3d73932b7"
+    },
+    {
+      "source_file": "image 53.png",
+      "source_sha256": "0cbfcd34ee6de3d709648d6fc4a064bb9a3377f7f184fd81bd2447100a8d0832",
+      "width": 900,
+      "height": 950,
+      "status": "equivalent-rendered-pixels",
+      "repository_file": "room_gaming.imageset/room.png",
+      "repository_sha256": "8d7b663bebf0decd5f579fed8acfbf1764cc9be56bc7f4cc4c356a5f44f583b8"
+    },
+    {
+      "source_file": "image 54.png",
+      "source_sha256": "33ade5529bacc83a9bc4c9a7728608c52a24e0bd96c9117d93015c62dd8f21fe",
+      "width": 900,
+      "height": 950,
+      "status": "equivalent-rendered-pixels",
+      "repository_file": "room_vintage.imageset/room.png",
+      "repository_sha256": "7191a884539ea259b0377c72cb1b9597f8f3410878fd450ea2fa3589a5890b27"
+    },
+    {
+      "source_file": "image 61.png",
+      "source_sha256": "356147922ed3fd1f54a775d7c164452c41073836b6493c3a70ba4658c554ddc9",
+      "width": 900,
+      "height": 950,
+      "status": "equivalent-rendered-pixels",
+      "repository_file": "room_sky.imageset/room.png",
+      "repository_sha256": "8028fa2feca1d0c791199044b5b7e206828ec11330a97fff0288b38b0c8dfba8"
+    }
+  ]
+}
